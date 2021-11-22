@@ -18,3 +18,4 @@ ActionChains(driver).move_to_element(m).perform()
 print('Page title: ' + driver.title)
 #close browser
 driver.close()
+#end of phase 1
